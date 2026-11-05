@@ -5,6 +5,16 @@
     # info: Information maintenance system calls provide data concerning the entire running system.
     # pinfo: The system calls available for retrieving information about processes in the system. 
     # pmod: Modifies its own priority to REDUCE it by 10
-    # finfo: displays the file information about a given file  provided via the command line.
+    # finfo: Displays file information about a given file  provided via the command line.
   # b. How to build the program
+    # info 
+      # clock_gettime 
+      # uname 
+      # gethostname 
+      # get_nprocs 
+      # sysconf 
+      # getpagesize
+    # pinfo
+    # pmod
+    # finfo
   # c. How to run the program – available command-line options
