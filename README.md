@@ -8,10 +8,10 @@
     # finfo: Displays file information about a given file  provided via the command line.
   # b. How to build the program
     # info 
-      # clock_gettime 
-      # uname 
-      # gethostname 
-      # get_nprocs 
+      # clock_gettime: retrieve the current time in seconds
+      # uname: display system information such as kernel name, version, release, machine hardware, and operating system
+      # gethostname: retrieves the standard hostname of the local machine.
+      # get_nprocs: retrieves the number of processors available on the system.
       # sysconf 
       # getpagesize
     # pinfo
