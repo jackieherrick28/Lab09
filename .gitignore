@@ -1,0 +1,9 @@
+# dependences files
+*.d
+# object files
+*.o
+# exe files
+pmod
+pinfo
+info
+finfo
