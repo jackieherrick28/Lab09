@@ -7,6 +7,4 @@
     # pmod: Modifies its own priority to REDUCE it by 10
     # finfo: displays the file information about a given file  provided via the command line.
   # b. How to build the program
-  
-  # c. How to run the program – available command line options
-  # d. A list of commands supported by the program
+  # c. How to run the program – available command-line options
