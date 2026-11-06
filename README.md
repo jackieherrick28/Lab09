@@ -12,9 +12,16 @@
       # uname: display system information such as kernel name, version, release, machine hardware, and operating system
       # gethostname: retrieves the standard hostname of the local machine.
       # get_nprocs: retrieves the number of processors available on the system.
-      # sysconf 
-      # getpagesize
+      # sysconf: retrieves system configuration information.
+      # getpagesize: Returns the system memory page size.
     # pinfo
+      # getpid: Retrieves the process ID.
+      # getpriority:  Retrieves the group ID.
+      # sched_getscheduler: Retrieves the scheduling policy of the process.
+      # getcpu: Pointer to an integer that receives the current CPU number.
+      # getrusage: Retrieves detailed resource‑usage statistics—such as user CPU time, system CPU time, memory usage, page       # faults, and context switches—for a process, its children, or a single thread.
+      # getrlimit: retrieves a process’s soft and hard resource limits 
     # pmod
+    
     # finfo
   # c. How to run the program – available command-line options
