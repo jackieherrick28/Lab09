@@ -1,6 +1,6 @@
 # Lab09
 # By: Jackie Herrick
-# Date: 11/05/26
+# Date: 11/05/26 
   # a. These programs go through the basic system calls on a Portable Operating System Interface (POSIX) operating system. 
     # info: Information maintenance system calls provide data concerning the entire running system.
     # pinfo: The system calls available for retrieving information about processes in the system. 
